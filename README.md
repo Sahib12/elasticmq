@@ -1,4 +1,4 @@
-![ElasticMQ](https://github.com/softwaremill/elasticmq/raw/master/banner.png)
+![ElasticMQ](https://github.com/softwaremill/elasticmq/raw/master/banner.png) 
 
 [![Build Status](https://travis-ci.org/softwaremill/elasticmq.svg?branch=master)](https://travis-ci.org/softwaremill/elasticmq)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.elasticmq/elasticmq-rest-sqs_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.elasticmq/elasticmq-rest-sqs_2.12/)
@@ -14,7 +14,7 @@ tl;dr
 Created and maintained by
 [<img src="https://softwaremill.com/images/header-main-logo.svg" alt="SoftwareMill logo" height="25">](https://softwaremill.com)
 
-Summary
+Detailed Summary 
 -------
 
 ElasticMQ is a message queue system, offering an actor-based Scala and an [SQS](http://aws.amazon.com/sqs/)-compatible
@@ -35,7 +35,7 @@ and outside of the Amazon infrastructure.
 
 The future will most probably bring even more exciting features :).
 
-Community
+Community 
 ---------
 
 * [Issues](https://github.com/adamw/elasticmq/issues)
