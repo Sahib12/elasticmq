@@ -14,7 +14,7 @@ tl;dr
 Created and maintained by
 [<img src="https://softwaremill.com/images/header-main-logo.svg" alt="SoftwareMill logo" height="25">](https://softwaremill.com)
 
-Detailed Summary 
+Detailed Summary for FIX
 -------
 
 ElasticMQ is a message queue system, offering an actor-based Scala and an [SQS](http://aws.amazon.com/sqs/)-compatible
